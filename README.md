@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkoumis
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Taegis
-- 📫 How to reach me: rkoumis @ secureworks dot com
+- 📫 How to reach me: robin.koumis @ sophos dot com
 
 <!---
 rkoumis/rkoumis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
