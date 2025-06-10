@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rkoumis
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Taegis
 - 📫 How to reach me: robin.koumis @ sophos dot com
 
 <!---
